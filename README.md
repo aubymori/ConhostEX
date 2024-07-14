@@ -15,7 +15,7 @@ frames, open the Registry Editor, create `HKEY_CURRENT_USER\Console\ClassicTheme
 as a DWORD, and set it to 1.
 
 # How to Build
-[Prerequisites](https://github.com/aubymori/ConhostEX#prerequisites)
+[Prerequisites](https://github.com/microsoft/terminal?tab=readme-ov-file#prerequisites)
 
 1. Clone the repository with `git clone https://github.com/aubymori/ConhostEX`
 2. `cd ConhostEX`, and run `git submodule update --init --recursive`
